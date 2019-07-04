@@ -1,0 +1,7 @@
+#Thu Jul 04 11:44:06 CST 2019
+base.0=/Users/wheheo/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/transforms/dexMerger/debug/0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/wheheo/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/transforms/dexMerger/debug/1
